@@ -29,6 +29,7 @@ phases:
             - echo "Run Basic check whether Website is ready for use"
             - echo "Test was successful"
             - echo "proceed with next steps"
+            - echo "Hello rishabh singh rathore"
     post_build:
         commands:
             - echo "We are currently on post_build phase"
